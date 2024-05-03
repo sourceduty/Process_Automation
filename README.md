@@ -6,5 +6,10 @@ The assistance provided by Process Automation can significantly enhance efficien
 
 What makes Process Automation original is its interactive and user-centric approach to building automation models. Unlike static software tools that offer limited customization, Process Automation dynamically adapts to each user's unique requirements. It combines consultation, customization, and visualization in a single service, providing a comprehensive platform for developing and enhancing automated systems. This method not only supports the implementation of effective automation solutions but also promotes continuous improvement and adaptation to changing business environments.
 
+#
+### Realted Links
+
+[Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
