@@ -9,7 +9,7 @@ What makes Process Automation original is its interactive and user-centric appro
 #
 ### Realted Links
 
-[Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
+[Decision Automation](https://github.com/sourceduty/Decision_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
