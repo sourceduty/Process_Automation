@@ -12,6 +12,8 @@ What makes Process Automation original is its interactive and user-centric appro
 [Decision Automation](https://github.com/sourceduty/Decision_Automation)
 <br>
 [Business Automation](https://github.com/sourceduty/Business_Automation)
+<br>
+[Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
