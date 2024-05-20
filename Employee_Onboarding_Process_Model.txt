@@ -1,0 +1,34 @@
+
+Employee Onboarding Process
+
+1. Candidate Acceptance
+   1.1 Candidate accepts the job offer
+       --> Send welcome email with onboarding instructions
+
+2. Documentation Collection
+   2.1 Collect personal information
+       --> Provide link to online form
+   2.2 Verify documentation
+       --> HR verifies documents
+
+3. System Setup
+   3.1 Create employee accounts
+       --> IT creates email and system accounts
+   3.2 Assign equipment
+       --> IT prepares necessary equipment
+
+4. Training and Orientation
+   4.1 Schedule orientation session
+       --> HR schedules and sends invite
+   4.2 Conduct orientation session
+       --> HR conducts orientation
+   4.3 Assign training modules
+       --> HR assigns training in LMS
+
+5. Integration and Follow-Up
+   5.1 Introduce to team
+       --> Manager introduces new employee to team
+   5.2 First-week check-in
+       --> Manager conducts check-in meeting
+   5.3 30-day review
+       --> Manager conducts performance review
