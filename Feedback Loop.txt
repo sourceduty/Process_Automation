@@ -22,4 +22,4 @@ Explanation:
 6. Final Action: The user acknowledges the alert and resolves the issue.
 7. Feedback Loop: Information from the final action is fed back to the Trigger Event, completing the loop.
 
-This diagram shows the horizontal process flow with the feedback loop clearly looping back to the first block. I hope this meets your requirements. Let me know if you need any further adjustments.
+This diagram shows the horizontal process flow with the feedback loop clearly looping back to the first block. 
