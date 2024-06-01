@@ -1,0 +1,25 @@
++---------------------+    +----------------------+    +---------------------+    +---------------------+    +----------------------+    +---------------------+    +---------------------+
+| Trigger Event       | →  | Immediate Reaction   | →  | Secondary Action    | →  | Conditional Check   | ⇏  | Tertiary Reaction    | →  | Final Action        |
+| (User presses a     |    | (Signal sent to      |    | (Machine starts     |    | (Check for errors)  |    | (Alert sent to user) |    | (User acknowledges  |
+| button)             |    | machine)             |    | operating)          |    |                     |    |                      |    | alert and resolves  |
+|                     |    |                      |    |                     |    |                     |    |                      |    | the issue)          |
++---------------------+    +----------------------+    +---------------------+    +---------------------+    +----------------------+    +---------------------+    +---------------------+
+         ↑                                                                                                                                                |
+         |                                                                                                                                                |
+         |                                                                                                                                                |
+         |                                                                                                                                                |
+         |                                                                                                                                                |
+         +-------------------------------------------------------↺ (Feedback Loop)------------------------------------------------------------------------+
+
+
+Explanation:
+
+1. Trigger Event (Action): The user presses a button, starting the process.
+2. Immediate Reaction: A signal is sent to a machine.
+3. Secondary Action: The machine starts operating.
+4. Conditional Check: If the machine encounters an error, it sends an alert.
+5. Tertiary Reaction: An alert is sent to the user.
+6. Final Action: The user acknowledges the alert and resolves the issue.
+7. Feedback Loop: Information from the final action is fed back to the Trigger Event, completing the loop.
+
+This diagram shows the horizontal process flow with the feedback loop clearly looping back to the first block. I hope this meets your requirements. Let me know if you need any further adjustments.
