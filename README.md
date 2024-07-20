@@ -30,6 +30,8 @@ While process automation encompasses the broader task of automating entire workf
 [Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics)
 <br>
 [Process Diagram](https://github.com/sourceduty/Process_Diagram)
+<br>
+[Factory Process](https://github.com/sourceduty/Factory_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
