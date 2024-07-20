@@ -32,6 +32,8 @@ While process automation encompasses the broader task of automating entire workf
 [Process Diagram](https://github.com/sourceduty/Process_Diagram)
 <br>
 [Factory Process](https://github.com/sourceduty/Factory_Simulator)
+<br>
+[Process](https://github.com/sourceduty/Process)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
