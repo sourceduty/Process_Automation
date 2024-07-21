@@ -34,6 +34,8 @@ While process automation encompasses the broader task of automating entire workf
 [Factory Process](https://github.com/sourceduty/Factory_Simulator)
 <br>
 [Process](https://github.com/sourceduty/Process)
+<br>
+[Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
