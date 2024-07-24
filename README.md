@@ -20,7 +20,7 @@ In contrast, decision automation focuses specifically on automating decision-mak
 While process automation encompasses the broader task of automating entire workflows, decision automation is more granular, focusing on specific decision-making tasks within those workflows. Decision automation can be a component of process automation, as processes often include several decision points that benefit from automated, data-driven decision-making to ensure consistency and efficiency. Typically, process automation involves simpler, rule-based tasks, whereas decision automation can involve more complex logic and data analysis, sometimes utilizing AI and ML. Understanding these differences is crucial for selecting the appropriate approach and tools for automating various aspects of business operations, thereby optimizing both processes and decisions for maximum efficiency and effectiveness.
 
 #
-### Uppdates
+### Updates
 
 ✅ Wednesday, July 24, 2024 - Petri Nets: This custom GPT will now offer to develop process place/transition net (Petri Net) diagrams which focus on process transitioning.
 - Edited convo starter: Design an automated place/transition net process model.
