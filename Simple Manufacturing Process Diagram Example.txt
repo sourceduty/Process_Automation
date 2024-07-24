@@ -1,0 +1,65 @@
+Simple Manufacturing Process Diagram Example
+
+Places:
+
+P1: Raw materials available
+P2: Assembly in progress
+P3: Product assembled
+P4: Quality check in progress
+P5: Product approved
+P6: Product packaged
+P7: Product shipped
+
+Transitions:
+
+T1: Start assembly
+T2: Complete assembly
+T3: Start quality check
+T4: Approve product
+T5: Package product
+T6: Ship product
+
+Arcs:
+
+P1 -> T1
+T1 -> P2
+P2 -> T2
+T2 -> P3
+P3 -> T3
+T3 -> P4
+P4 -> T4
+T4 -> P5
+P5 -> T5
+T5 -> P6
+P6 -> T6
+T6 -> P7
+
+Initial Marking:
+
+P1 (1)  # Raw materials available
+P2 (0)
+P3 (0)
+P4 (0)
+P5 (0)
+P6 (0)
+P7 (0)
+
+Final Marking:
+
+P1 (0)
+P2 (0)
+P3 (0)
+P4 (0)
+P5 (0)
+P6 (0)
+P7 (1)  # Product shipped
+
+Explanation:
+
+1. Places (P1-P7) represent different states in the manufacturing process.
+2. Transitions (T1-T6) represent activities that cause state changes.
+3. Arcs show the flow between places and transitions.
+4. Initial Marking sets the starting condition, with raw materials available.
+5. Final Marking shows the end condition, with the product shipped.
+
+This plain text representation can be used to understand the flow and structure of the manufacturing process in a Petri Net model.
