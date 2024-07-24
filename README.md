@@ -29,6 +29,8 @@ While process automation encompasses the broader task of automating entire workf
 ### Exmaple Usage
 
 [Employee_Onboarding_Process_Model.txt](https://github.com/sourceduty/Process_Automation/files/15380680/Employee_Onboarding_Process_Model.txt)
+<br>
+[Simple Manufacturing Process Diagram Example.txt](https://github.com/user-attachments/files/16360083/Simple.Manufacturing.Process.Diagram.Example.txt)
 
 #
 ### Realted Links
