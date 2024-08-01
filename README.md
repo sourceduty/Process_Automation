@@ -48,6 +48,8 @@ While process automation encompasses the broader task of automating entire workf
 [Process](https://github.com/sourceduty/Process)
 <br>
 [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
+<br>
+[Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
