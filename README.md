@@ -1,4 +1,4 @@
-![Process Automation](https://github.com/sourceduty/Process_Automation/assets/123030236/7e6a3ec4-b5a2-4d63-aadc-c976ae6974f4)
+![Process Automation](https://github.com/user-attachments/assets/3a886009-e7f2-4ce8-afe9-6e618e71cdb5)
 
 > Develop and refine automated process models.
 
