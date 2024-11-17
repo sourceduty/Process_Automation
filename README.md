@@ -20,6 +20,11 @@ In contrast, decision automation focuses specifically on automating decision-mak
 While process automation encompasses the broader task of automating entire workflows, decision automation is more granular, focusing on specific decision-making tasks within those workflows. Decision automation can be a component of process automation, as processes often include several decision points that benefit from automated, data-driven decision-making to ensure consistency and efficiency. Typically, process automation involves simpler, rule-based tasks, whereas decision automation can involve more complex logic and data analysis, sometimes utilizing AI and ML. Understanding these differences is crucial for selecting the appropriate approach and tools for automating various aspects of business operations, thereby optimizing both processes and decisions for maximum efficiency and effectiveness.
 
 #
+### Process Model Builder
+
+Process Model Builder is a comprehensive terminal-based Python application designed for creating highly customizable process models. It allows users to build and save models with various architecture levels such as Super, High, Medium, and Low. The program supports advanced features like step types (e.g., Standard, Decision, Parallel, End), priorities, and descriptions. Users can customize their process flow with different arrow types (→, ←, ↔, ⇄), reorder steps, delete them, or edit their details. By offering a step-by-step guided menu, the program is intuitive to use and ensures users can visualize their process models effectively. Once the process model is complete, it can be saved to a text file, making it a practical tool for project managers, engineers, or analysts designing workflows or systems.
+
+#
 ### Updates
 
 ✅ Wednesday, July 24, 2024 - Petri Nets: This custom GPT will now offer to develop process place/transition net (Petri Net) diagrams which focus on process transitioning.
